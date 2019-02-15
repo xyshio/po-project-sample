@@ -2,4 +2,7 @@ Linia 1
 Linia 2
 Linia 3
 = = = = = = = = =
-:
+To jest nowa linijka
+
+
+Potrz
