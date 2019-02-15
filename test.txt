@@ -2,4 +2,4 @@ Linia 1
 Linia 2
 Linia 3
 = = = = = = = = =
-testowanie reverta
+:
